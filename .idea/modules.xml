@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BeescmSimple.iml" filepath="$PROJECT_DIR$/BeescmSimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommonBusiness/CommonBusiness.iml" filepath="$PROJECT_DIR$/CommonBusiness/CommonBusiness.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoginModule/LoginModule.iml" filepath="$PROJECT_DIR$/LoginModule/LoginModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenSourceLibrary/OpenSourceLibrary.iml" filepath="$PROJECT_DIR$/OpenSourceLibrary/OpenSourceLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WXSample/WXSample.iml" filepath="$PROJECT_DIR$/WXSample/WXSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
